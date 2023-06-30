@@ -1,5 +1,5 @@
 # Chat-App
-<b>Greetings, fellow developers: I have designed an interactive chat app using Firebase and its fundamentals. You can view the deployed web app, and don't forget to add your details in the `config > Firebase.js`</b>
+<b>Greetings, fellow developers: I have designed an interactive chat app using Firebase and its fundamentals. Don't forget to incorporate your configurations in the `config > Firebase.js`</b>
 
 # Project Prerequisites
 <ol>
